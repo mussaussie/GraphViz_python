@@ -1,13 +1,13 @@
-🌍 World Happiness Visualization — Grammar of Graphics in Action
-Visualizing Global Happiness through the Grammar of Graphics Framework
+**🌍 World Happiness Visualization — Grammar of Graphics in Action**
+**Visualizing Global Happiness through the Grammar of Graphics Framework**
 
-🧠 Project Overview
+**🧠 Project Overview**
 
 This project explores the World Happiness Report dataset using the Grammar of Graphics concept — a structured way to build powerful, layered visualizations in Python.
 
 The goal is to understand how GDP, Health, Freedom, and Corruption influence happiness across countries and regions. The project builds on the ideas shared by Dipanjan Sarkar in his article “A Comprehensive Guide to the Grammar of Graphics”, and reimagines them through a real-world dataset and extended visual analysis.
 
-✨ Key Highlights
+**✨ Key Highlights**
 
 Used World Happiness Report (2019) data for a real-world scenario.
 
@@ -61,7 +61,7 @@ Examining how corruption levels influence happiness within each region.
 Adding linear regression models by region to reveal statistical trends.
 
 
-💡 Insights Gained
+**💡 Insights Gained**
 
 GDP and Health are strong predictors of happiness across nations.
 
@@ -103,7 +103,7 @@ Coordinates (layout and grid)
 
 Instead of building charts manually, you define rules and mappings, and let the grammar handle the rest — resulting in scalable, elegant visualizations.
 
-🌍 Real-World Applications
+**🌍 Real-World Applications**
 
 This visualization approach is used by organizations like the United Nations, OECD, and World Bank to:
 
@@ -115,7 +115,7 @@ Support data-driven policymaking and social research.
 
 It’s a practical demonstration of how data storytelling can make social data more understandable and impactful.
 
-👏 Acknowledgment
+**👏 Acknowledgment**
 
 This project is inspired by Dipanjan Sarkar’s article:
 A Comprehensive Guide to the Grammar of Graphics for Effective Visualization of Multi-dimensional Data
